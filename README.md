@@ -1,2 +1,4 @@
 # calculator
-simple calculator for carry out simple math problems
+simple calculator for carrying out simple math problems
+Here is live link - 
+https://09godslove.github.io/calculator/
